@@ -1,4 +1,4 @@
-# Expense-Design
+# Expense-Design includes Pie & Bar Chart, Filter by Date & Expense Type
 
 ![](https://github.com/dhruvikdhanani/Expense-Design/blob/main/Design/1.gif)
 ![](https://github.com/dhruvikdhanani/Expense-Design/blob/main/Design/2.gif)
